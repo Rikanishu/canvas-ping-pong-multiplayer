@@ -1,6 +1,6 @@
 ## canvas-ping-pong-multiplayer ##
 
-This example is implimentaion of [Mailson's canvas ping pong tutorial][lnk1] with multiplayer extension
+This example is implementaion of [Mailson's canvas ping pong tutorial][lnk1] with multiplayer extension
 
 ### Installing ###
 
@@ -14,6 +14,10 @@ This example is implimentaion of [Mailson's canvas ping pong tutorial][lnk1] wit
 	user@example:~$ python ./app.py
 
 3. Open client/index.html in browser
+
+### Configure ###
+
+See server/config.py and variable gameOptions in client for details
 
 ### Notes ###
 
