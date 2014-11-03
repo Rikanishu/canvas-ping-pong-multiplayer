@@ -11,7 +11,7 @@ WORKERS_SPAWN = 1
 GAME_TYPE = 'singleplayer'
 
 # Server game loop FPS
-# Game logic coordinates recalculating per second
+# Number of game logic coordinates recalculating times per second
 GAME_LOOP_FPS = 50
 
 # Game field width in pixels
@@ -35,6 +35,6 @@ BALL_RADIUS = 10
 BALL_MIN_SPEED = 6
 BALL_MAX_SPEED = 12
 
-# Ai logic recalculating per second
+# Number of AI logic recalculating times per second
 AI_ACTIVE_LOOP = 35
 
