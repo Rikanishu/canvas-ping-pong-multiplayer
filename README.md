@@ -13,7 +13,7 @@ This example is implementaion of [Mailson's canvas ping pong tutorial][lnk1] wit
 user@example:~$ sudo pip install tornado
 user@example:~$ python ./app.py
 ```
-* Open client/index.html in browser
+* Open ```client/index.html``` in browser
 
 ### Configure ###
 
