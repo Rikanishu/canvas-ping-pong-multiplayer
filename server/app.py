@@ -86,6 +86,9 @@ class Handler(websocket.WebSocketHandler):
             message = json.loads(message)
             self.player.game.on_player_message(message, self.player)
 
+    def check_origin(self, origin):
+        return True
+
 class CustomApplication(web.Application):
     def start(self, port):
         from tornado.httpserver import HTTPServer
