@@ -17,7 +17,7 @@ user@example:~$ python ./app.py
 
 ### Configure ###
 
-See server/config.py and variable gameOptions in client for details
+See ```server/config.py``` and variable gameOptions in client for details
 
 ### Notes ###
 
