@@ -1,6 +1,10 @@
 ## canvas-ping-pong-multiplayer ##
 
-This example is implementaion of [Mailson's canvas ping pong tutorial][lnk1] with multiplayer extension
+This is example of implementaion canvas ping pong game by [Mailson's tutorial][lnk1] with multiplayer extension.
+
+<div style="text-align: center">
+<img src="http://rikanishu.github.io/images/canv.png" />
+</div>
 
 ### Installing ###
 
